@@ -1,0 +1,106 @@
+*{
+	margin: 0px;
+  padding: 0px;
+}
+
+.body{
+  max-width: 100vw;
+}
+
+
+
+
+.bi{
+  width: 100%;
+  height: 100vh;
+  display: block;
+  margin: auto;
+  z-index: 1;
+  object-fit: cover;
+  }
+
+.shapka{
+	width: 100%;
+	height: 100vh;
+	display: block;
+	margin: auto;
+	position: fixed;
+  z-index: 2;
+}
+
+.alink{
+    display: block;
+}
+
+.link{
+  left: 34vw;
+  top: 43vh;
+  position: fixed;
+   width: 31vw;
+  height: 13vh;
+  background-color:rgba(255,255,255, 0);
+  z-index: 3;
+}
+
+.mesto{
+  height: 100vh;
+}
+  
+.info{
+	width: 100%;
+	height: 150vh;
+	position: relative;
+	margin: auto;
+  background-color: rgba(255, 255, 255, 0.2);
+  z-index: 4;
+}
+
+.block{
+  height: 100%;
+  width: 75vw;
+  position: relative;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 50px;
+}
+
+.main{
+  position: relative;
+  margin: 0 2% 4vh 2%;
+  top: 2.4vh;
+  width: 96%;
+  height: 28%;
+  border: 1px solid #000;
+  border-radius: 50px;
+}
+
+.pms{
+  margin: auto;
+  width: 100%;
+  height: 69%;
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+
+.smain{
+width: 30vw;
+height: auto;
+border: 1px solid #000;
+margin: 5px auto;
+border-radius: 35px;
+}
+
+
+.podval{
+	width: 100%;
+	height: 25vh;
+	background-color: black;
+  z-index: 6;
+  position: relative;
+}
+
+
+
+
+/* ХУЯ - нихуя*/
